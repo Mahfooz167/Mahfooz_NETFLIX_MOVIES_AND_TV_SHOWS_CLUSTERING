@@ -1,7 +1,8 @@
 # Mahfooz_NETFLIX_MOVIES_AND_TV_SHOWS_CLUSTERING
+![Image 1](https://www.bhmpics.com/downloads/netflix-wallpaper/35.uk-march-2020-tv-television-260nw-1680823216.jpg)
 
 # NETFLIX-MOVIES-AND-TV-SHOWS-CLUSTERING
-# Netflix-Movies-and-Tv-Shows
+
 NLP , Clustering
 
 ## 📖Introduction
